@@ -50,7 +50,9 @@ footer {
 
 .navbar {
   display: flex;
-  position: relative;
+  position: fixed;
+  top: 0;
+  width: 100%;
   justify-content: space-between;
   align-items: center;
   background-color: #333;
